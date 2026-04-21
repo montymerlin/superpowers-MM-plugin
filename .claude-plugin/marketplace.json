@@ -1,13 +1,13 @@
 {
-  "name": "superpowers-cowork",
+  "name": "superpowers-knowledge",
   "owner": {
-    "name": "Rollo Bryant"
+    "name": "Monty Bryant"
   },
   "plugins": [
     {
-      "name": "superpowers-cowork",
+      "name": "superpowers-knowledge",
       "source": "./",
-      "description": "Structured workflow discipline for creative, business, and strategic work. Brainstorm, plan, execute, review, verify — with hard gates at each stage.",
+      "description": "Structured workflow discipline for creative, business, and strategic knowledge work. A deliberate fork of Jesse Vincent's Superpowers, adapted for non-code contexts. Installs alongside the official Superpowers plugin — the agent chooses by domain.",
       "version": "0.3.3",
       "author": {
         "name": "Monty Bryant",
@@ -16,7 +16,7 @@
       "repository": "https://github.com/montymerlin/superpowers-MM-plugin",
       "license": "MIT",
       "category": "productivity",
-      "tags": ["workflow", "discipline", "brainstorming", "planning", "verification", "review", "knowledge-work"]
+      "tags": ["workflow", "discipline", "brainstorming", "planning", "verification", "review", "knowledge-work", "creative", "strategy"]
     }
   ]
 }

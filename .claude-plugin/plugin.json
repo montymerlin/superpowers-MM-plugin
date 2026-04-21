@@ -1,10 +1,10 @@
 {
-  "name": "superpowers-cowork",
+  "name": "superpowers-knowledge",
   "version": "0.3.3",
-  "description": "Structured workflow discipline for creative, business, and strategic work. Adapted from the Superpowers framework by Jesse Vincent for non-code knowledge work. Enforces brainstorming, planning, verification, and review gates that prevent ad-hoc execution and ensure evidence-based completion.",
+  "description": "Structured workflow discipline for creative, business, and strategic knowledge work — proposals, campaigns, research, strategy, creative briefs. A deliberate fork of Jesse Vincent's Superpowers, adapted for non-code contexts. Can be installed alongside the official Superpowers plugin: shared methodology skills are domain-scoped so the agent chooses by context (code tasks → upstream, knowledge tasks → this plugin). Three original skills (systematic-problem-solving, two-stage-review, feedback-reception) have no upstream equivalent and add unique value in any configuration.",
   "author": {
     "name": "Monty Bryant",
     "homepage": "https://github.com/montymerlin"
   },
-  "keywords": ["productivity", "workflow", "discipline", "brainstorming", "planning", "verification", "review"]
+  "keywords": ["productivity", "workflow", "discipline", "brainstorming", "planning", "verification", "review", "knowledge-work", "creative", "strategy"]
 }

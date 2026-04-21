@@ -1,6 +1,6 @@
-# Superpowers for Cowork
+# Superpowers for Knowledge Work
 
-Structured workflow discipline for creative, business, and strategic work. Adapted from Jesse Vincent's [Superpowers](https://github.com/obra/superpowers) framework for non-code knowledge work.
+Structured workflow discipline for creative, business, and strategic knowledge work. A deliberate fork of Jesse Vincent's [Superpowers](https://github.com/obra/superpowers) framework, adapted for non-code contexts — proposals, campaigns, research, strategy, creative briefs.
 
 ## What It Does
 
@@ -40,6 +40,14 @@ Stops Claude from winging it. Enforces a disciplined pipeline - brainstorm, plan
 6. Verify whole deliverable
 7. Handoff with evidence
 ```
+
+## Using Alongside Official Superpowers
+
+This plugin can be installed **alongside** the official [Superpowers](https://github.com/obra/superpowers) plugin. Official Superpowers targets software development (TDD, debugging, code review, git workflows). This plugin targets knowledge work.
+
+When both are installed, the agent routes by domain: code tasks use official Superpowers skills, knowledge tasks use this plugin's `superpowers-mm:` namespaced skills. Three skills — **systematic-problem-solving**, **two-stage-review**, and **feedback-reception** — have no upstream equivalent and add unique value in any configuration.
+
+When installed alone, this plugin provides the complete methodology pipeline with no gaps.
 
 ## Installation
 
